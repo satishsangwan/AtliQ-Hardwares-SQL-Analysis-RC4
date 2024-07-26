@@ -1,4 +1,3 @@
-# AtliQ-Hardwares-SQL-Analysis
 # SQL Project: Atliq Hardwares - Resume Challenge 4
 
 ## Project Overview
@@ -6,7 +5,7 @@
 **Domain:** Consumer Goods  
 **Function:** Executive Management  
 **Company:** Atliq Hardwares (imaginary company)  
-**Challenge:** Codebasics's Resume Challenge 4
+**Challenge:** Codebasics's Resume Challenge 4 [Here is the Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 Atliq Hardwares is one of the leading computer hardware producers in India with a significant presence in other countries. However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. To address this, they aim to expand their data analytics team by hiring junior data analysts.
 
