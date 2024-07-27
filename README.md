@@ -201,4 +201,10 @@ Tony Sharma, the data analytics director, designed a SQL challenge to assess can
 ## Power BI Dashboard
 
 Additionally, an interactive Power BI dashboard was created to analyze customer, product, and sales data, providing a comprehensive view of Atliq Hardwares' performance.
+
 ![Description](https://drive.google.com/uc?export=view&id=1gAoy41VDK8EiiIA5-UB7da5pJoPjTrnd)
+
+## Contact Me 
+
+- Email : ssangwan91@gmail.com
+- LinkedIN : https://www.linkedin.com/in/satish-sangwan-da/
