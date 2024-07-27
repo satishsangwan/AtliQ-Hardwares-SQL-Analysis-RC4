@@ -230,7 +230,7 @@ Open Adhoc_SQL_Insights_Presentation.pdf to view the detailed analysis and visua
 Contributions are welcome! Please fork the repository and submit pull requests for any improvements or additional analyses.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/satishsangwan/Adhoc_SQL_Insights_AtliQ_Hardware_Finance_and_Supply_Chain_Analysis/blob/main/LICENSE)
+This project is licensed under the [MIT License](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/LICENSE)
 
 ## Contact
 For inquiries, please contact Satish Sangwan 
