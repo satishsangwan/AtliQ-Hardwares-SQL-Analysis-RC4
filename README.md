@@ -28,7 +28,7 @@ Tony Sharma, the data analytics director, designed a SQL challenge to assess can
 ## Data Model
 We are provided with 6 different data tables namely dim_customer, dim_product, fact_sales_monthly, fact_gross_price, fact_pre_invoice_deductions, fact_manufacturing_cost and also shown in entity relationship diagram (ERD) below:
 
-**ERD** ![ERD](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Entity%20Relationship%20Diagram.png)
+**ERD** ![ERD](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis-RC4/blob/main/images/Entity%20Relationship%20Diagram.png)
 
 
 ## Project Tasks
@@ -36,7 +36,7 @@ We are provided with 6 different data tables namely dim_customer, dim_product, f
 ### Task 1
 **Request:** Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
 
-**SQL Query** ![SQL QUERY](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task-1.png)
+**SQL Query** ![SQL QUERY](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis-RC4/blob/main/images/Task-1.png)
 
 **Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_1_Output.png)
 
