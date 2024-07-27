@@ -13,17 +13,22 @@ Tony Sharma, the data analytics director, designed a SQL challenge to assess can
 
 ## Table of Contents
 
-1. [Project Tasks](#project-tasks)
-2. [Task-wise Insights and Recommendations](#task-wise-insights-and-recommendations)
-3. [Overall Summary](#overall-summary)
-4. [Recommendations](#recommendations)
-5. [Technical Details](#technical-details)
-6. [Power BI Dashboard](#power-bi-dashboard)
+1. [Data Model](#data-model)
+2. [Project Tasks](#project-tasks)
+3. [Task-wise Insights and Recommendations](#task-wise-insights-and-recommendations)
+4. [Overall Summary](#overall-summary)
+5. [Recommendations](#recommendations)
+6. [Technical Details](#technical-details)
+7. [Power BI Dashboard](#power-bi-dashboard)
+8. [Installation and Usage](#installation-and-usage)
+9. [Contributing](#contributing)
+10. [License](#license)
+11. [Contact](#contact)
 
 ## Data Model
 We are provided with 6 different data tables namely dim_customer, dim_product, fact_sales_monthly, fact_gross_price, fact_pre_invoice_deductions, fact_manufacturing_cost and also shown in entity relationship diagram (ERD) below:
 
-**ERD** ![ERD]()
+**ERD** ![ERD](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Entity%20Relationship%20Diagram.png)
 
 
 ## Project Tasks
