@@ -1,5 +1,5 @@
 # SQL Project: Atliq Hardwares - Resume Challenge 4
-
+## Insights to Management in Consumer Goods Domain
 ## Project Overview
 
 **Domain:** Consumer Goods  
