@@ -25,16 +25,28 @@ Tony Sharma, the data analytics director, designed a SQL challenge to assess can
 ### Task 1
 **Request:** Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
 
+**SQL Query** ![SQL QUERY](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task-1.png)
+
+**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_1_Output.png)
+
 ### Task 2
 **Request:** What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these fields:
 - unique_products_2020
 - unique_products_2021
 - percentage_chg
 
+**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task-2.png)
+
+**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_2_Output.png)
+
 ### Task 3
 **Request:** Provide a report with all the unique product counts for each segment and sort them in descending order of product counts. The final output contains:
 - segment
 - product_count
+
+**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---3.png)
+
+**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_3_Output.png)
 
 ### Task 4
 **Request:** Which segment had the most increase in unique products in 2021 vs 2020? The final output contains:
@@ -43,11 +55,19 @@ Tony Sharma, the data analytics director, designed a SQL challenge to assess can
 - product_count_2021
 - difference
 
+**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---4.png)
+
+**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_4_Output.png)
+
 ### Task 5
 **Request:** Get the products that have the highest and lowest manufacturing costs. The final output should contain:
 - product_code
 - product
 - manufacturing_cost
+
+**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---5.png)
+
+**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_5_Output.png)
 
 ### Task 6
 **Request:** Generate a report with the top 5 customers who received the highest average pre_invoice_discount_pct for the fiscal year 2021 in the Indian market. The final output contains:
@@ -55,22 +75,38 @@ Tony Sharma, the data analytics director, designed a SQL challenge to assess can
 - customer
 - average_discount_percentage
 
+**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---6.png)
+
+**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_6_Output.png)
+
 ### Task 7
 **Request:** Get the complete report of the Gross sales amount for the customer “Atliq Exclusive” for each month. This analysis helps to understand low and high-performing months for strategic decisions. The final report contains:
 - Month
 - Year
 - Gross sales Amount
 
+**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---7.png)
+
+**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_7_Output.png)
+
 ### Task 8
 **Request:** In which quarter of 2020 was the maximum total_sold_quantity? The final output contains:
 - Quarter
 - total_sold_quantity
+
+**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---8.png)
+
+**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_8_Output.png)
 
 ### Task 9
 **Request:** Which channel brought more gross sales in the fiscal year 2021 and the percentage of contribution? The final output contains:
 - channel
 - gross_sales_mln
 - percentage
+
+**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---9.png)
+
+**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_9_Output.png)
 
 ### Task 10
 **Request:** Get the Top 3 products in each division that have the highest total_sold_quantity in fiscal year 2021. The final output contains:
@@ -79,6 +115,10 @@ Tony Sharma, the data analytics director, designed a SQL challenge to assess can
 - product
 - total_sold_quantity
 - rank_order
+
+**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---10.png)
+
+**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_10_Output.png)
 
 ## Task-wise Insights and Recommendations
 
