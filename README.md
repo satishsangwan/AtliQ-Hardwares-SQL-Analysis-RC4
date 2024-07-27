@@ -20,6 +20,12 @@ Tony Sharma, the data analytics director, designed a SQL challenge to assess can
 5. [Technical Details](#technical-details)
 6. [Power BI Dashboard](#power-bi-dashboard)
 
+## Data Model
+We are provided with 6 different data tables namely dim_customer, dim_product, fact_sales_monthly, fact_gross_price, fact_pre_invoice_deductions, fact_manufacturing_cost and also shown in entity relationship diagram (ERD) below:
+
+**ERD** ![ERD]()
+
+
 ## Project Tasks
 
 ### Task 1
