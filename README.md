@@ -204,7 +204,35 @@ Additionally, an interactive Power BI dashboard was created to analyze customer,
 
 ![Description](https://drive.google.com/uc?export=view&id=1gAoy41VDK8EiiIA5-UB7da5pJoPjTrnd)
 
-## Contact Me 
+## Installation and Usage
+To use the SQL scripts, follow these steps:
 
-- Email : ssangwan91@gmail.com
+1. **Clone the Repository:**
+
+git clone https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis.git
+cd AtliQ-Hardwares-SQL-Analysis
+
+2. **Set Up Your Environment:**
+
+Install MySQL Workbench if not already installed.
+Open MySQL Workbench and connect to your database.
+
+3. **Run the SQL Scripts:**
+
+Open SQL_Queries_for_Resume_Challenge_Project_4.sql in MySQL Workbench.
+Execute the queries in your MySQL Workbench environment to generate the reports.
+
+4. **Review the Presentation:**
+
+Open Adhoc_SQL_Insights_Presentation.pdf to view the detailed analysis and visualizations.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit pull requests for any improvements or additional analyses.
+
+## License
+This project is licensed under the [MIT License](https://github.com/satishsangwan/Adhoc_SQL_Insights_AtliQ_Hardware_Finance_and_Supply_Chain_Analysis/blob/main/LICENSE)
+
+## Contact
+For inquiries, please contact Satish Sangwan 
+- Email: ssangwan91@gmail.com
 - LinkedIN : https://www.linkedin.com/in/satish-sangwan-da/
